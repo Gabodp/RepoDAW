@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo');
+
+#sections div{
+	border-style: solid;
+	border-width: 2px;
+	border-color: #606060;
+	border-radius: 10px;
+	text-align: center;
+	width: 120px;
+	height: 120px;
+	margin-top: 15px;
+}
+
+h1{
+	font-size: 36px;
+	font-family: 'Baloo';
+	line-height: 120px;
+	margin: auto;
+	vertical-align: middle;
+}
+
+#div1,#div3 {
+	background-color: #f7fade;
+}
+
+#div2,#div4{
+	background-color: #dfedd6;
+}
