@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Baloo');
 
+#sections{
+	text-align: right;
+}
+
 #sections div{
 	display: inline-block;
 	border-style: solid;
@@ -11,6 +15,7 @@
 	height: 144px;
 	margin-left: 17px;
 	padding-left: 17px;
+	vertical-align: middle;
 }
 
 h1{
@@ -18,7 +23,7 @@ h1{
 	font-family: 'Baloo';
 	line-height: 120px;
 	margin: auto;
-	vertical-align: middle;
+	
 }
 
 #div1,#div3 {
