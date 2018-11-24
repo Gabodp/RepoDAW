@@ -1,0 +1,21 @@
+
+
+#label {
+	text-align: center;
+	background-color: #4286f4;
+	border: 1px #4162f4;
+	border-radius: 5px;
+	vertical-align: middle;
+	display: table;
+}
+
+.row {
+	margin: 2px;
+}
+
+#textobuscado {
+	text-align: center;
+	line-height: 60px;
+	display: table-cell;
+	vertical-align: middle;
+}
